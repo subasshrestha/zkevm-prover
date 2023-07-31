@@ -49,8 +49,8 @@ jobs:
           push: true
           target: executor
           tags: |
-            hermeznetwork/zkevm-prover:${{ steps.setvars.outputs.tag }}
-            hermeznetwork/zkevm-prover:${{ steps.setvars.outputs.sha_short }}
+            subas513/zkevm-prover:${{ steps.setvars.outputs.tag }}
+            subas513/zkevm-prover:${{ steps.setvars.outputs.sha_short }}
 
   # node-tests:
   #   needs: build-docker

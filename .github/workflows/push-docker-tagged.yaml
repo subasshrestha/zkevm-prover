@@ -44,5 +44,5 @@ jobs:
           push: true
           target: executor
           tags: |
-            hermeznetwork/zkevm-prover:${{ github.ref_name }}
+            subas513/zkevm-prover:${{ github.ref_name }}
             

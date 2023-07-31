@@ -1,7 +1,7 @@
 #ifndef DEFINITIONS_HPP
 #define DEFINITIONS_HPP
 
-#define PROVER_FORK_ID 5
+#define PROVER_FORK_ID 1
 #define PROVER_FORK_NAMESPACE fork_5
 #define PROVER_FORK_NAMESPACE_STRING "fork_5"
 #define USING_PROVER_FORK_NAMESPACE using namespace fork_5
